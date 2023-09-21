@@ -1,0 +1,2 @@
+# Estacionamiento
+Demasiadas columnas
